@@ -1,0 +1,7 @@
+C:\Users\sasha\source\repos\ООП лаба5 полеморфизм\ООП лаба5 полеморфизм\bin\Debug\ООП лаба5 полеморфизм.exe.config
+C:\Users\sasha\source\repos\ООП лаба5 полеморфизм\ООП лаба5 полеморфизм\bin\Debug\ООП лаба5 полеморфизм.exe
+C:\Users\sasha\source\repos\ООП лаба5 полеморфизм\ООП лаба5 полеморфизм\bin\Debug\ООП лаба5 полеморфизм.pdb
+C:\Users\sasha\source\repos\ООП лаба5 полеморфизм\ООП лаба5 полеморфизм\obj\Debug\ООП лаба5 полеморфизм.csproj.AssemblyReference.cache
+C:\Users\sasha\source\repos\ООП лаба5 полеморфизм\ООП лаба5 полеморфизм\obj\Debug\ООП лаба5 полеморфизм.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\ООП лаба5 полеморфизм\ООП лаба5 полеморфизм\obj\Debug\ООП лаба5 полеморфизм.exe
+C:\Users\sasha\source\repos\ООП лаба5 полеморфизм\ООП лаба5 полеморфизм\obj\Debug\ООП лаба5 полеморфизм.pdb
